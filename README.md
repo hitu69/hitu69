@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hitu69
-- 👀 I’m interested in frontend development, backend development and web3 development.
+- 👋 Hi, I’m Hitesh
+- 👀 I’m interested in frontend development, backend development and web3 development
 - 🌱 I’m currently learning ethereum
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
